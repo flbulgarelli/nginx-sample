@@ -28,4 +28,11 @@ docker run --rm --net=host -v /home/franco/tmp/nginx-sample/nginx.conf:/etc/ngin
 
 Luego consultar http://localhost:8080
 
-Más información: https://hub.docker.com/_/nginx
+## Diagrama de despliegue
+
+![diagrama](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuKf9B4bCIYnELG0HBgakYINvnLnSUVaf896SnBparCIK_2A8G75gKLaca6U8oZL2vHfpSI7fLD3LjKDen2bZf80fXJ0FhXyaWU9Ik7vq6GMub3669eVKl1IWtm40)
+
+## Más información
+
+* https://hub.docker.com/_/nginx
+* https://nginx.org/
