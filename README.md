@@ -1,7 +1,7 @@
 # Precondiciones
 
 * Instalar `docker`
-* Instalar `npm`
+* Instalar `node`
 
 # Instalación
 
