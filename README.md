@@ -23,7 +23,7 @@ node index.js 8083
 # Iniciar el balanceador
 
 ```bash
-docker run --rm --net=host -v /home/franco/tmp/nginx-sample/nginx.conf:/etc/nginx/nginx.conf:ro  nginx
+docker run --rm --net=host -v ./nginx.conf:/etc/nginx/nginx.conf:ro  nginx
 ```
 
 Luego consultar http://localhost:8080
